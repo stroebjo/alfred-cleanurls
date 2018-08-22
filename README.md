@@ -11,6 +11,7 @@ Currently supported are:
 - Heise news articles
 - reddit threads
 - YoutTube videos
+- ebay articles
 
 Add new URL
 -----------

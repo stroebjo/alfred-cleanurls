@@ -204,6 +204,8 @@ Currently supported are:
 - Heise news articles
 - reddit threads
 - YoutTube videos
+- ebay articles
+
 
 Add new URL
 -----------
@@ -248,7 +250,7 @@ If you have a URL that is not currently supported, please create a pull request 
 		</dict>
 	</dict>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.1.0</string>
 	<key>webaddress</key>
 	<string>http://jonathanstroebele.de</string>
 </dict>
