@@ -10,7 +10,6 @@ class Heise implements URLCleaner
 
 	public function getShortURL($url_parts)
 	{
-		// get ASIN from the path segement
 		if (preg_match('#-([0-9]+)\.html$#i', $url_parts['path'], $m)) {
 			$shorter_url = 'https://heise.de/-'.$m[1];
 			return $shorter_url;
